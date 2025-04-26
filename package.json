@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Discord bot for server security using slash commands",
   "main": "index.js",
-  "author": "Friday",
+  "author": "AuraFarmer",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
